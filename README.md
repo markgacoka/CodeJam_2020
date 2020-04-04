@@ -21,14 +21,16 @@ For each test case, output one line containing Case #x: k r c, where x is the te
 Test set 1 (Visible Verdict)
 Time limit: 20 seconds per test set.
 Memory limit: 1GB.
+```
 1 ≤ T ≤ 100.
 2 ≤ N ≤ 100.
 1 ≤ Mi,j ≤ N, for all i, j.
+```
 
 ##### Sample
 
 ###### Input
- 
+``` 
 3
 4
 1 2 3 4
@@ -44,8 +46,11 @@ Memory limit: 1GB.
 2 1 3
 1 3 2
 1 2 3
+```
 
 ###### Output
+```
 Case #1: 4 0 0
 Case #2: 9 4 4
 Case #3: 8 0 2
+```
