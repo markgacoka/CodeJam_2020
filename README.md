@@ -55,4 +55,4 @@ Case #2: 9 4 4
 Case #3: 8 0 2
 ```
 
-<img width="200" src="terminal_output.png">
+<img width="200" src="Vestigium/terminal_output.png">
