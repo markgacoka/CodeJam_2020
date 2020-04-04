@@ -54,3 +54,5 @@ Case #1: 4 0 0
 Case #2: 9 4 4
 Case #3: 8 0 2
 ```
+
+<img width="200" src="terminal_output.png">
